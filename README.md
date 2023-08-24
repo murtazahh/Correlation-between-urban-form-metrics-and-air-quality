@@ -1,2 +1,4 @@
 # Correlation-between-urban-form-metrics-and-air-quality
 Correlation between urban form metrics and air quality in Hanoi city
+
+This research aims to evaluate the correlation between urban form metrics and air quality in Hanoi city. The study will focus on three areas in Hanoi, each covering a 500-meter radius circle with an air quality monitoring station at the center of each circle. The urban form metrics used in this study include average building height, building density, road network density, road length, average road width, and greenery density. The air quality monitoring stations provide indices for PM2.5 index hourly at the measurement points. Additionally, data on wind speed and wind direction hourly (from independent sources, but covering the entire city) will be used. The data collection period spans 3 months: June to August 2021. Data for the months of June to August 2020 will also be used.
